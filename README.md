@@ -1,1 +1,3 @@
-README file for the repository test.
+# Read Me
+
+Initial test of how to use github.
